@@ -1,0 +1,21 @@
+Diagram Aliran Data (DFD) adalah alat yang digunakan dalam pemodelan proses bisnis untuk menggambarkan aliran data dan proses yang terjadi dalam suatu sistem. DFD terdiri dari beberapa tingkatan, dengan tingkatan 0, 1, dan 2 adalah tingkatan yang umum digunakan dalam pemodelan proses bisnis. Berikut perbedaan antara DFD level 0, 1, dan 2:
+
+1. DFD Level 0:
+   - DFD level 0 adalah tingkatan paling atas dalam diagram aliran data.
+   - Ini menggambarkan gambaran umum tentang sistem dan menunjukkan entitas-entitas utama yang berinteraksi dengan sistem.
+   - DFD level 0 menunjukkan proses utama atau "proses sistem" yang menerima input, memprosesnya, dan menghasilkan output.
+   - Biasanya hanya ada satu proses level 0 dalam DFD.
+
+2. DFD Level 1:
+   - DFD level 1 adalah tingkatan di bawah DFD level 0 dan lebih terperinci.
+   - DFD level 1 memecah proses sistem utama dari DFD level 0 menjadi subproses yang lebih kecil.
+   - Ini menunjukkan bagaimana data mengalir antara subproses dan entitas-entitas eksternal.
+   - Biasanya, ada beberapa proses level 1 dalam DFD level 1, dan setiap proses ini dapat memiliki input dan output yang terkait.
+
+3. DFD Level 2:
+   - DFD level 2 adalah tingkatan di bawah DFD level 1 dan lebih mendetail lagi.
+   - DFD level 2 memecah subproses dari DFD level 1 menjadi subproses yang lebih kecil lagi.
+   - Ini digunakan untuk menggambarkan langkah-langkah rinci dalam suatu proses.
+   - DFD level 2 dapat memiliki lebih banyak proses, entitas, dan aliran data yang lebih detail dibandingkan dengan DFD level 1.
+
+Perbedaan utama antara ketiga tingkatan DFD ini adalah tingkat detail yang diberikan dalam menggambarkan proses dan aliran data. Semakin tinggi tingkatan DFD, semakin mendalam detailnya. DFD level 0 memberikan gambaran umum, DFD level 1 memberikan pemecahan proses utama menjadi subproses, dan DFD level 2 memberikan detail lebih lanjut tentang subproses tersebut. Pemodelan DFD yang baik biasanya melibatkan semua tingkatan ini untuk memberikan pemahaman yang komprehensif tentang sistem yang sedang dimodelkan.
